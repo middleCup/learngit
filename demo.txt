@@ -2,5 +2,8 @@ this is updateOne first commond.
 this is second commond.
 this is third commond.
 dev branch create
-Creating a new <main test>branch is.
-test
+<<<<<<< HEAD
+Creating a new(this was changed)branch is.
+=======
+Creating a new branch is.
+>>>>>>> feature1
